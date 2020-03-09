@@ -1,8 +1,6 @@
 # Broken-Tools
-Tools that break as you use them, minecraft texture pack.
+Issue Tracker for the resource pack Degrading Tools. Supports 1.12.2, 1.14.4, 1.15.2.
+https://www.curseforge.com/minecraft/texture-packs/broken-tools
 
-to use this in the game called "Minecraft" download the .zip file and go to %appdata" in your file explorer. 
-
-Then go to .minecraft and navigate to "resourcepack" and drop the .zip file in that folder.
-
-Now you have this downloaded and ready to play!
+Leave a suggestion with [Suggestion] in the title of your issue.
+If you do make a suggestion, please keep it to the theme of the pack.
